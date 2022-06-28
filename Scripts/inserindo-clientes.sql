@@ -1,0 +1,1 @@
+﻿insert into cliente values ('cliente 1', 'cliente1@cliente.com', '33333-4444')
